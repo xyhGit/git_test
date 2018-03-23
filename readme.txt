@@ -4,5 +4,5 @@ add another line
 add third line
 git is quick and simple
 work done.
-add a new friend
+welcome new friend!
 start new work
